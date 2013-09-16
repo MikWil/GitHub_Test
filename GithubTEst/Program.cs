@@ -20,7 +20,7 @@ namespace GithubTEst
 
                 if (Murat == Retard && Elo < 600)
                 {
-                    Console.WriteLine(Murat + "ALLAHUAKBAR");
+                    Console.WriteLine(Murat + "Is berry nice Guy");
 
                 }
             }
